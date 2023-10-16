@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.main {
+    color: red;
+}
+
+.main div>ul {
+    color: rgb(0, 255, 4);
+}
+
+a {
+    color: rgb(255, 234, 0);
+}
+
+.main ul li+li {
+    color: brown;
+}
+
+.side .menu {
+    background-color: aqua;
+}
+
+.container .side .menu {
+    background: red;
+}
