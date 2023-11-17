@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0
+}
+
+body .container div.main {
+    color:red
+}
+
+
+.side menu {
+    
+}
+
+.main div>ul {
+    color: green
+}
+
+a {
+    color: green
+}
+
+.main ul li+li{
+
+}
+
