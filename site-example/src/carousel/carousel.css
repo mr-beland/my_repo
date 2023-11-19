@@ -7,7 +7,9 @@
 
 .carousel-container {
    display: flex;
+   /* выравнивание каждой фотографии - на каждый слайд - шириной 600px */
    transform: translateX(0); 
+   /* задать плавность при переключения cлайда */
    transition: transform 0.5s ease; 
 }
 
